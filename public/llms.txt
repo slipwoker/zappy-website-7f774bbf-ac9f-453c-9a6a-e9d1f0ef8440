@@ -1,0 +1,77 @@
+# מרסו מתוקים — Generative Engine Optimization Map
+
+> Marso Metukkim is a home-based bakery and confectionery brand offering fresh, handmade sweets baked with love every day. The brand has a warm, personal, and approachable vibe, emphasizing freshness, great taste, and affordable prices. Their product lineup includes layered ganache cakes, classic cookies, cupcakes, and trendy bento cakes. Orders are placed via WhatsApp and picked up in person, giving the brand a cozy, community-oriented feel.
+
+---
+
+## Pages
+
+### בית
+https://-7f774bbf.zappy5.app
+מרסו מתוקים מביאים לכם קינוחים ביתיים טריים באהבה בכל יום – עוגות שוקולד, קאפקייקס וקינוחי בנטו במחירים נוחים. הזמינו עכשיו בוואטסאפ!
+
+### תודה - מרסו מתוקים
+https://-7f774bbf.zappy5.app/thank-you
+מרסו מתוקים - תודה - מרסו מתוקים
+
+## Legal & Policy
+
+### Privacy Policy
+https://-7f774bbf.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-7f774bbf.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-7f774bbf.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-7f774bbf.zappy5.app
+- Endpoint: https://-7f774bbf.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `pickup_time` (text)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About מרסו מתוקים
+Marso Metukkim is a home-based bakery and confectionery brand offering fresh, handmade sweets baked with love every day. The brand has a warm, personal, and approachable vibe, emphasizing freshness, great taste, and affordable prices. Their product lineup includes layered ganache cakes, classic cookies, cupcakes, and trendy bento cakes. Orders are placed via WhatsApp and picked up in person, giving the brand a cozy, community-oriented feel.
+
+## Services/Products
+- עוגות (שוקולד גאנש חלב/מריר/לבן, גזר, תפוזים, וניל) – 50₪
+- עוגיות (שוקולד, וניל, סוכר, קלאסיות) – 10₪ לחבילה של 10
+- קאפקייקס – מארז 5 ב-15₪
+- עוגות בנטו (גאנש חלב/מריר/לבן) – 20₪
+
+## Target Audience
+- חובבי מתוקים מקומיים
+- מארגני אירועים
+- מארגני חגיגות משפחתיות
+
+## Industry
+Bakery & Confectionery
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-7f774bbf.zappy5.app/sitemap.xml
+- Robots: https://-7f774bbf.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-7f774bbf.zappy5.app/llms-full.txt
